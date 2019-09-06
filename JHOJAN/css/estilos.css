@@ -1,0 +1,54 @@
+@charset "utf-8";
+
+body{
+	
+}
+
+.contenido{
+	padding-right: 1%;
+	text-align: justify;
+	padding-left: 1%;
+	margin-top: 2px;
+	width: 65%;
+	float: left;
+	background-color: aquamarine;
+}
+.navegacion{
+
+	text-align: center;
+	width: 100%;
+	background-color: aquamarine;
+	float: left;
+}
+.navegacion ul a{
+	padding: 10px 10px;
+		color: black;
+}
+
+.navegacion ul a:hover{
+	background-color:red;
+	border-bottom: 2px solid black;
+}
+
+.barra{
+	margin-top: 2px;
+	text-align: center;
+	width: 32.5%;
+	float: right;
+	background-color: green;
+}
+
+.header{
+	text-align: center;
+	background-color: yellow;
+}
+
+a{
+	text-decoration: none;
+}
+#footer{
+	margin-top: 30px;
+	text-align: center;
+	clear: both;
+	background-color: #1B5F9E;
+}
